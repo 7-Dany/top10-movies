@@ -1,10 +1,10 @@
 # Your Top 10 Watched Movie list
 ![Header/Viewing image for the App](./images/Mytop10.png)
 ## Welcome
-Thanks for checking my app.
+*Thanks for checking my app.*
 
 ## Usage of the App
-This app is for allow the user to create a **list** for his own watched movies
+This app is to allow the user to create a **list** for his own **watched movies**
 
 You can **Search** for any Movie you want
 
@@ -22,7 +22,7 @@ You can **Delete** any movie from the list
 
 **Python Flask** As a backend 
 
-[The Movie Database Api](https://developers.themoviedb.org/3/search/search-movies) to be able to add search for movie.
+[The Movie Database Api](https://developers.themoviedb.org/3/search/search-movies) to be able to add search for movie and add poster and description for that movie .
 ## The App URL
 
 [Top 10 Movies List](https://your-top10-movies.herokuapp.com/)
