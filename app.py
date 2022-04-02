@@ -41,7 +41,7 @@ class Movies(db.Model):
     img_url = db.Column(db.String(250), nullable=False)
 
 
-# db.create_all()
+db.create_all()
 
 
 @app.route('/')
