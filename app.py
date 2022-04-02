@@ -71,7 +71,7 @@ def add_movie():
 @app.route("/movie", methods=["GET", "POST"])
 def search_movie():
     movie_id = request.args["movie_id"]
-    api_key = "3ae31addd8de70362fbaaf2f4480a3f4"
+    api_key = os.getenv("API_KEY")
     parameters = {
         "api_key": api_key,
     }
