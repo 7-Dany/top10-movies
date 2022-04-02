@@ -22,7 +22,7 @@ You can **Delete** any movie from the list
 
 **Python Flask** As a backend 
 
-[The Movie Database Api](https://developers.themoviedb.org/3/search/search-movies) to be able to add search for movie and add poster and description for that movie .
+[The Movie Database Api](https://developers.themoviedb.org/3/search/search-movies) to be able to add search for movie also adding poster and description for that movie .
 ## The App URL
 
 [Top 10 Movies List](https://your-top10-movies.herokuapp.com/)
